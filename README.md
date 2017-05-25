@@ -24,5 +24,5 @@ The website of 'bbc' and 'theguardian' is being scraped every 10 minutes powered
 Please do a get request to **http://ec2-54-169-41-252.ap-southeast-1.compute.amazonaws.com/api/v1/news/** and do some GET parameters to do the searches.
 
 ## TAKE NOTE
-- **.env** is not push to protect sensitive data
+- **.env** is not pushed to protect sensitive data
 - Currently the available searches are **title**, **tags**, **summary**, **text**. e.g. **http://ec2-54-169-41-252.ap-southeast-1.compute.amazonaws.com/api/v1/news/?tags=UK**
