@@ -1,0 +1,6 @@
+[submodule "news-api"]
+	path = news-api
+	url = https://github.com/Dean-Christian-Armada/news-api.git
+[submodule "news-scrape-exam"]
+	path = news-scrape-exam
+	url = https://github.com/Dean-Christian-Armada/news-scrape-exam.git
